@@ -1,0 +1,12 @@
+scikit-learn
+sentence-transformers
+flask
+pandas
+numpy
+nltk
+matplotlib
+seaborn
+requests
+spacy
+shap
+googletrans==4.0.0-rc1
